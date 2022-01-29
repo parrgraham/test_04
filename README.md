@@ -24,6 +24,6 @@
 
 1. adsss
    -sssdddd
-    *ddddd
+    -ddddd
     
 
