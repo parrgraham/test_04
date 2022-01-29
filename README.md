@@ -35,4 +35,4 @@
 😄
 🎄
 
-![this is another image](https://www.deviantart.com/lucasdurham/art/Android-Netrunner-Autoscripter-488857702)
+![this is another image](https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/7529921/7529921-1599957944301-5d39c4693f2fb.jpg)
