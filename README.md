@@ -31,8 +31,10 @@
       -  Dumbest
 
 
-😎
-😄
-🎄
+<img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/7529921/7529921-1599957944301-5d39c4693f2fb.jpg" alt="drawing" width="200"/>
 
 ![this is another image](https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/7529921/7529921-1599957944301-5d39c4693f2fb.jpg)
+
+
+
+
