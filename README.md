@@ -33,7 +33,10 @@
 
 <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/7529921/7529921-1599957944301-5d39c4693f2fb.jpg" alt="drawing" width="500"/>
 
-
+1. [x] #739
+   -  [ ] https://github.com/octo-org/octo-repo/issues/740
+      -  [ ] Add delight to the experience when all tasks are complete :tada:
+      -  [ ] Add delight to the experience when all tasks are complete :tada:
 
 
 
