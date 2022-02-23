@@ -4,9 +4,9 @@
 
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: right;">
 
-*Here are some markdowns.*
+<p><b>Here are some markdowns.</b></p>
 
 </div>
 
